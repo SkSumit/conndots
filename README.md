@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`BULMA CSS`](http://bulma.io/).
+# This is a [Next.js](https://nextjs.org/) project bootstrapped with [`BULMA CSS`](http://bulma.io/).
 
 ## Getting Started
 
