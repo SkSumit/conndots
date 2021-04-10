@@ -31,7 +31,14 @@ export default function Home() {
       <section className="hero is-fullheight">
         <div className="hero-body ">
           <div className="container has-text-centered">
-            <h1 className="title is-1 has-text-centered bounce">🚀 </h1>
+            <h1 className="title is-1 has-text-centered bounce">
+              <div className="lds-ring">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+            </h1>
           </div>
         </div>
       </section>
