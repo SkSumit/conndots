@@ -1,2 +1,22 @@
+body,.main{
+    background-color: black !important;
+}
+.imgSize{
+    max-height: 80vh !important;
+}
 
+.imgRowSize{
+    max-width: 25vw !important;
+    max-height: 50vh !important;
+}
+.title{
+    color: #F8B815 !important;
+}
+
+.slick-dots li.slick-active button:before,.slick-dots li button:before,.subtitle{
+    color: white !important;
+}
+
+@import '../node_modules/slick-carousel/slick/slick-theme.scss';
+@import '../node_modules/slick-carousel/slick/slick.scss';
 @import '../node_modules/bulma/bulma.sass'
